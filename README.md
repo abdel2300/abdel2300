@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdel2300
 - 👀 I’m interested in web application; AI, ML and BLOCKCHAIN
-- 🌱 I’m currently learning Cpp
+- 🌱 I’m currently learning Cpp java js android
 - 💞️ I’m looking to collaborate on basic projects first
 - 📫 How to reach me : abderrahm66@gmail.com
 
